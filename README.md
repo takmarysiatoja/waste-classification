@@ -8,15 +8,11 @@ Built with [Gradio](https://gradio.app/) and [HuggingFace Transformers](https://
 ## 📂 Project Structure
 ```waste-classification/
 │
-├── app/
-│ └── app.py # Main Gradio app
-│
-├── notebooks/
-│ └── exploration.ipynb # (optional) Jupyter notebook with tests
+├── app.py # Main Gradio app
+│ 
 │
 ├── requirements.txt # Project dependencies
 ├── README.md # Documentation
-├── .gitignore # Files to ignore in Git
 ├── LICENSE # License (MIT)
 └── screenshot.png # Example screenshot
 ```
