@@ -6,7 +6,7 @@ Built with [Gradio](https://gradio.app/) and [HuggingFace Transformers](https://
 
 
 ## 📂 Project Structure
-waste-classification/
+```waste-classification/
 │
 ├── app/
 │ └── app.py # Main Gradio app
@@ -19,6 +19,7 @@ waste-classification/
 ├── .gitignore # Files to ignore in Git
 ├── LICENSE # License (MIT)
 └── screenshot.png # Example screenshot
+```
 
 
 ## 🚀 Demo
