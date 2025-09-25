@@ -20,6 +20,7 @@ Built with [Gradio](https://gradio.app/) and [HuggingFace Transformers](https://
 
 ## 🚀 Demo
 Upload a photo of trash and get the predicted category along with a confidence score.
+
 ![Demo screenshot](image.png)
 
 
