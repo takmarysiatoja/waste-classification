@@ -14,7 +14,7 @@ Built with [Gradio](https://gradio.app/) and [HuggingFace Transformers](https://
 ├── requirements.txt # Project dependencies
 ├── README.md # Documentation
 ├── LICENSE # License (MIT)
-└── screenshot.png # Example screenshot
+└── image.png # Example screenshot
 ```
 
 
